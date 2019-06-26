@@ -4,7 +4,7 @@ description: A new Flutter project.
 dependencies:
   flutter:
     sdk: flutter
-  flutter_webview_plugun: "^0.2.1+2"
+  flutter_webview_plugin: ^0.3.5
   date_format: "^1.0.4"
 
   # The following adds the Cupertino Icons font to your application.
@@ -18,4 +18,7 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+
+  assets:
+    - images/xiao.png
 
